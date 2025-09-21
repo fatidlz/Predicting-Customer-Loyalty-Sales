@@ -1,0 +1,51 @@
+product_id,product_type,model_or_flavor,flavor,intensity,price_eur
+1,Capsule,Volluto,Volluto,7,0.34
+2,Capsule,Roma,Roma,9,0.46
+3,Accessory,Tumbler,,,17.92
+4,Capsule,Fortissio,Fortissio,9,0.38
+5,Capsule,Ristretto,Ristretto,11,0.46
+6,Capsule,Ristretto,Ristretto,12,0.46
+7,Capsule,Livanto,Livanto,5,0.57
+8,Capsule,Indriya,Indriya,4,0.5
+9,Machine,Lattissima,,,163.02
+10,Machine,Citiz,,,93.15
+11,Machine,Essenza Mini,,,85.59
+12,Capsule,Fortissio,Fortissio,9,0.5
+13,Capsule,Fortissio,Fortissio,4,0.43
+14,Capsule,Ristretto,Ristretto,11,0.47
+15,Capsule,Indriya,Indriya,6,0.53
+16,Capsule,Volluto,Volluto,1,0.33
+17,Capsule,Roma,Roma,2,0.56
+18,Capsule,Volluto,Volluto,8,0.53
+19,Capsule,Ristretto,Ristretto,5,0.29
+20,Accessory,Milk Frother,,,38.82
+21,Capsule,Volluto,Volluto,12,0.48
+22,Capsule,Indriya,Indriya,4,0.41
+23,Capsule,Volluto,Volluto,7,0.49
+24,Accessory,Descaler,,,12.18
+25,Capsule,Cosi,Cosi,7,0.49
+26,Capsule,Ristretto,Ristretto,5,0.39
+27,Capsule,Indriya,Indriya,8,0.61
+28,Capsule,Indriya,Indriya,13,0.45
+29,Machine,Citiz,,,188.99
+30,Capsule,Fortissio,Fortissio,1,0.39
+31,Capsule,Volluto,Volluto,12,0.52
+32,Capsule,Cosi,Cosi,9,0.45
+33,Accessory,Descaler,,,8.71
+34,Machine,Lattissima,,,135.67
+35,Capsule,Ristretto,Ristretto,4,0.6
+36,Capsule,Volluto,Volluto,8,0.52
+37,Capsule,Ristretto,Ristretto,5,0.42
+38,Machine,Vertuo,,,49.0
+39,Accessory,Cleaning Kit,,,13.34
+40,Capsule,Ristretto,Ristretto,3,0.34
+41,Capsule,Indriya,Indriya,3,0.3
+42,Accessory,Descaler,,,26.28
+43,Accessory,Milk Frother,,,20.5
+44,Capsule,Arpeggio,Arpeggio,11,0.59
+45,Capsule,Roma,Roma,7,0.37
+46,Capsule,Volluto,Volluto,2,0.45
+47,Machine,Essenza Mini,,,66.35
+48,Capsule,Indriya,Indriya,6,0.4
+49,Capsule,Indriya,Indriya,11,0.43
+50,Capsule,Roma,Roma,9,0.42
