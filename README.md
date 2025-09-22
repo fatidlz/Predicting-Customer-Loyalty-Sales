@@ -145,4 +145,4 @@ These artifacts demonstrate an end‑to‑end workflow from synthetic CRM data g
 
 ## Forecast Preview (Auto ARIMA)
 
-![Auto ARIMA Forecast](capsule_sales_auto_arima_forecast.png) 
+![Auto ARIMA Forecast](capsule_sales_7day_regression_forecast.png) 
