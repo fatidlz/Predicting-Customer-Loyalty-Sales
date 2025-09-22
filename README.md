@@ -141,4 +141,8 @@ After completing the steps, you should have:
 - `capsule_sales_7day_regression_forecast.png` (Linear Regression)
 - `capsule_sales_auto_arima_forecast.png` (Auto ARIMA)
 
-These artifacts demonstrate an end‑to‑end workflow from synthetic CRM data generation through database modeling to time‑series forecasting and visualization for daily capsule sales. 
+These artifacts demonstrate an end‑to‑end workflow from synthetic CRM data generation through database modeling to time‑series forecasting and visualization for daily capsule sales.
+
+## Forecast Preview (Auto ARIMA)
+
+![Auto ARIMA Forecast](capsule_sales_auto_arima_forecast.png) 
